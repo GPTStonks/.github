@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="./profile/resources/logo-chatbot.png" alt="Logo">
+  <img src="./profile/resources/logo_gpt_colorful.png" alt="Logo">
 </p>
 
 # Welcome to GPTStonks Chat
 
-![](./profile/resources/demo.gif)
+![](./profile/resources/homepage_vod.gif)
 <p align=center>
-<b>Video 1:</b> Preview of GPTStonks Chat from months ago. New revamped release coming soon!
+<b>Video 1:</b> New release of GPTStonks Chat with advanced AI integrations!
 </p>
 
 ## Introduction 🌟
@@ -25,6 +25,11 @@ The project is proudly **open source**!
 ### Getting Started 🛠️
 
 Getting up and running is as straightforward as using [Docker Compose](https://docs.docker.com/compose/). For detailed instructions, refer to our API's [README](https://github.com/GPTStonks/api?tab=readme-ov-file#full-deployment-api--frontend--db-recommended).
+
+## Our repositories 📁
+
+- **[API](https://github.com/GPTStonks/core)**: The backend API for GPTStonks, built with FastAPI and Python.
+- **[Frontend](https://github.com/GPTStonks/chatbot)**: Open source fully customizable chatbot for GPTStonks, built with React and TypeScript.
 
 ## AI Providers
 
@@ -46,4 +51,4 @@ We welcome contributions from the community! Feel free to open issues, report bu
 
 ## Disclaimer
 
-GPTStonks Chat serves as an interface for accessing financial data and general knowledge. It is not intended to provide financial or investment advice.
+GPTStonks serves as an interface for accessing financial data and general knowledge. It is not intended to provide financial or investment advice.
